@@ -22,7 +22,7 @@ Table of contents:
 
 ## Boilerplate
 
-Want to build something from scratch? use the [boilerplate](https://github.com/madhums/node-express-mongoose)
+Want to build something from scratch? use the [boilerplate]
 
 * Checkout the [apps that are built using this approach](https://github.com/madhums/node-express-mongoose/wiki/Apps-built-using-this-approach)
 * The [wiki](https://github.com/madhums/node-express-mongoose/wiki) is wip, it has some information about the way application is setup.
